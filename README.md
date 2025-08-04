@@ -1,5 +1,7 @@
 # Dashboard de Recursos Humanos - Power BI
 
+![Dashboard de Recursos Humanos](https://github.com/JulioRubio6767/Dashboard-Recursos-Humanos--PowerBI/blob/main/assets/presupuesto%20pbi%20talento%20humano.gif)
+
 📌 **Descripción General**  
 Solución analítica para la gestión estratégica del capital humano, diseñada para empresas con alta rotación de personal donde la gestión eficiente de recursos humanos impacta directamente en la productividad organizacional.
 
